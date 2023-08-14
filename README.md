@@ -1,4 +1,4 @@
-# projeto-figma
+# Landing Page/Projeto Spotify - Figma
 projeto/figma
 ![Mask group](https://github.com/larissatendzigolski/projeto-figma/assets/88748709/203ade71-ac67-4b33-8565-50250c54d347)
 ![Login](https://github.com/larissatendzigolski/projeto-figma/assets/88748709/0f9989b0-2f33-43dc-b0b1-1ee97db0b38a)
