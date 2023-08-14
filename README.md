@@ -4,10 +4,12 @@
 
 <LINKS>
 
-LINK PARA ACESSO AO PROJETO COMPLETO 
+LINK PARA ACESSO AO PROJETO COMPLETO :
+
 https://www.figma.com/file/ibrBTm4FNnPk3jvhreyh6V/Landing-Page%2FSpotify?type=design&node-id=0%3A1&mode=design&t=mPLxPGLfQcbSvHa2-1
 
-LINK PARA ACESSO AO PROTÓTIPO 
+LINK PARA ACESSO AO PROTÓTIPO :
+
 https://www.figma.com/proto/ibrBTm4FNnPk3jvhreyh6V/Landing-Page%2FSpotify?page-id=0%3A1&type=design&node-id=77-479&viewport=242%2C256%2C0.47&t=HELYvWIOzrEIkeuB-1&scaling=scale-down&starting-point-node-id=7%3A4&mode=design
 
 
